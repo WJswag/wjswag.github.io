@@ -1,3 +1,7 @@
 [{
   "include": "https://5w.ag/.well-known/assetlinks.json"
-}]
+},
+{
+  "include": "https://swaglive.page.link/.well-known/assetlinks.json"
+}
+]
